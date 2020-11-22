@@ -2,8 +2,8 @@
 Gotta start somewhere
 
 
-Hello fellow earth creatures!
+Hello fellow Earth creatures!
 
-Dan here, starting his adventure into the scary world of 
-computer coding. I will be making my best effort to improve humanities 
+Dan here, starting this adventure into the scary world of 
+computer coding. I will be making my best effort to improve humans
 daily life by learning this future language.
